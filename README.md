@@ -43,7 +43,3 @@ function getCookie(b){let c=`; ${document.cookie}`,a=c.split(`; ${b}=`);if(2===a
 Disclaimer: This is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Instagram.
 
 Use it at your own risk!.
-
-## Notes
-
-Part of the script was taken from the repo of [@davidarroyo1234](https://github.com/davidarroyo1234/InstagramUnfollowers)
